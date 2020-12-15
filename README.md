@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
+Co-Founder and Chief Product Officer at [ChainSafe Systems](https://chainsafe.io/), leading ChainSafe Products & Infrastructure.
+
+- 🔭 I’m currently working on [ChainSafe Files](https://files.chainsafe.io)
+- 📫 How to reach me: [@pri0m](https://twitter.com/pri0m)
+- 😄 Pronouns: He, Him, His
 <!--
 **priom/priom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
