@@ -3,7 +3,7 @@
 I'm Priom, Co-Founder and Chief Product Officer at [ChainSafe Systems](https://chainsafe.io/)
 
 - 🔭 Current Projects: [ChainSafe Files](https://files.chainsafe.io), [ChainSafe](https://github.com/chainsafe/)
-- 📫 Reach me: [Github](https://github.com/priom) [Twitter](https://twitter.com/pri0m), [Linkedin](https://www.linkedin.com/in/priomchowdhury/), [Reddit](https://www.reddit.com/user/pr10m)
+- 📫 Reach me: [Github](https://github.com/priom), [Twitter](https://twitter.com/pri0m), [Linkedin](https://www.linkedin.com/in/priomchowdhury/)
 <!--
 **priom/priom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
