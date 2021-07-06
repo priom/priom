@@ -1,20 +1,17 @@
-# Hello World 👋
+# Hello World
+I'm **Priom Chowdhury**, Co-Founder and Chief Product Officer at [ChainSafe](https://chainsafe.io). 
 
-I'm Priom, Co-Founder and Chief Product Officer at [ChainSafe Systems](https://chainsafe.io/)
+I'm passionate about advancing the world with innovation, building technology products and creating a [private and secure place](https://medium.com/chainsafe-systems/introducing-chainsafe-files-3eedabdec922) on the internet.
 
-- 🔭 Current Projects: [ChainSafe Files](https://files.chainsafe.io), [ChainSafe](https://github.com/chainsafe/)
-- 📫 Reach me: [Github](https://github.com/priom), [Twitter](https://twitter.com/pri0m), [Linkedin](https://www.linkedin.com/in/priomchowdhury/)
-<!--
-**priom/priom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I studied Computer Science at Saint Mary's University.
 
-Here are some ideas to get you started:
+Previously, instructed [Blockchain Development](https://www.georgebrown.ca/programs/blockchain-development-program-t175) at George Brown College.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can:
+- Try out [ChainSafe Files](https://app.files.chainsafe.io/), end-to-end encrypted cloud storage built with [IPFS](http://ipfs.io/) & [Filecoin](https://filecoin.io/)
+- Follow me on [Twitter](https://twitter.com/pri0m)
+- Message me on [LinkedIn](https://linkedin.com/in/priomchowdhury)
+- Check out my [GitHub](https://github.com/priom)
+- Apply to work at [ChainSafe](https://chainsafe.io/careers)
+
+Thank you!
