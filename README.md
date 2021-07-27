@@ -1,3 +1,5 @@
+![chainsafe-wide-logo](https://user-images.githubusercontent.com/6680028/127147064-597ec444-cee7-45c2-8509-4a031b1e2b7d.png)
+
 # Hello World
 I'm **Priom Chowdhury**, Co-Founder and Chief Product Officer at [ChainSafe](https://chainsafe.io). 
 
