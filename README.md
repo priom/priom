@@ -2,7 +2,7 @@
 
 # Hello World
 
-I'm **Priom Chowdhury**, Founder of [HyperOdd](https://hyperodd.com), a decentralized leveraged prediction market, and previously co-founded [ChainSafe](https://chainsafe.io).
+I'm **Priom Chowdhury**, Founder of [HyperOdd](https://hyperodd.com), a decentralized leveraged prediction market on Hyperliquid, and previously co-founded [ChainSafe](https://chainsafe.io).
 
 I'm passionate about building user-friendly decentralized finance products and developer-focused engineering tools.
 
