@@ -1,7 +1,8 @@
-<img width="1584" height="396" alt="Untitled Design Multi-Design" src="https://github.com/user-attachments/assets/ce3ba84b-1c92-4ddc-980a-bc2826e0a5ee" />
+<img width="1200" height="285" alt="HyperOdd Logo" src="https://github.com/user-attachments/assets/c25c2886-4f7b-40d4-80b7-c0e9943fa50b" />
+
 # Hello World
 
-I'm **Priom Chowdhury**, Founder of [HyperOdd](https://hyperodd.com), a decentralized leveraged prediction market on Hyperliquid, and previously co-founded [ChainSafe](https://chainsafe.io).
+I'm **Priom Chowdhury**, Founder of [HyperOdd](https://hyperodd.com), a Liquidity Infrastructure for Perps, Options & Predictions on Hyperliquid & Polymarket, and previously co-founded [ChainSafe](https://chainsafe.io).
 
 I'm passionate about building user-friendly decentralized finance products and developer-focused engineering tools.
 
